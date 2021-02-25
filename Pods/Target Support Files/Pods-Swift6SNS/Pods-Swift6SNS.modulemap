@@ -1,0 +1,6 @@
+framework module Pods_Swift6SNS {
+  umbrella header "Pods-Swift6SNS-umbrella.h"
+
+  export *
+  module * { export * }
+}
